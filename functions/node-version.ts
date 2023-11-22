@@ -5,6 +5,6 @@ export default async (req: Request, context: Context) => {
 }
 
 export const config: Config = {
-  path: "/node-version"
+  path: ["/node-version", "/version"]
 }
 
