@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "dependencies": {
+    "@netlify/functions": "^2.4.0"
+  }
+}
